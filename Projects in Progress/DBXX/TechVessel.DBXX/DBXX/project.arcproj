@@ -14,10 +14,6 @@ charts:
   illustrator: ''
   difficulty: Future ?
   difficultyColor: '#482B54FF'
-  lastWorkingTiming: 25486
+  lastWorkingTiming: 83136
   previewStart: 73236
   previewEnd: 83136
-editorSettings:
-  lastUsedPublisher: TechVessel
-  lastUsedPackageName: DBXX
-  lastUsedVersionNumber: 4
