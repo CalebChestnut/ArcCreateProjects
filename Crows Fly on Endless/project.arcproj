@@ -1,0 +1,43 @@
+lastOpenedChartPath: 2.aff
+charts:
+- chartPath: 2.aff
+  audioPath: base.ogg
+  jacketPath: base.jpg
+  baseBpm: 212
+  bpmText: 106
+  syncBaseBpm: true
+  title: Crows Fly on Endless
+  composer: Arcade Trauma + buddywudd
+  charter: TechnicalVessel
+  alias: Who let Caleb install ArcCreate
+  illustrator: ''
+  difficulty: What the hell
+  chartConstant: 11.5
+  difficultyColor: '#482B54FF'
+  skin:
+    side: conflict
+    note: ''
+    particle: colorless
+    track: nijuusei
+    accent: ''
+    singleLine: none
+  colors:
+    trace: '#9178AA7A'
+    shadow: '#5A5A5A3C'
+    arc:
+    - '#0CD4D4D9'
+    - '#FF96DCD9'
+    - '#23FF6CD9'
+    - '#FFF500D9'
+    arcLow:
+    - '#19A0EBD9'
+    - '#F0699BD9'
+    - '#28C81ED9'
+    - '#FFCB00D9'
+  lastWorkingTiming: 107830
+  previewStart: 17547
+  previewEnd: 27099
+editorSettings:
+  lastUsedPublisher: TechnicalVessel
+  lastUsedPackageName: CroWIP
+  lastUsedVersionNumber: 10
