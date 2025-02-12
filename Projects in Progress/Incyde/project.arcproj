@@ -18,5 +18,8 @@ charts:
     note: ''
     particle: ''
     track: ''
-  lastWorkingTiming: 38826
+  lastWorkingTiming: 38625
   previewEnd: 5000
+editorSettings:
+  lastUsedPublisher: TechVessel
+  lastUsedPackageName: Incyde
