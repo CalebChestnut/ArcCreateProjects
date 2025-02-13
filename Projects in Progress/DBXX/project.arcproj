@@ -12,11 +12,11 @@ charts:
   charter: TechnicalVessel
   alias: ''
   illustrator: ''
-  difficulty: Future ?
-  difficultyColor: '#482B54FF'
+  difficulty: Beyond 10+
+  difficultyColor: '#7C1C30FF'
   previewStart: 73236
   previewEnd: 83136
 editorSettings:
   lastUsedPublisher: TechVessel
   lastUsedPackageName: DBXX
-  lastUsedVersionNumber: 5
+  lastUsedVersionNumber: 9
