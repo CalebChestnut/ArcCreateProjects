@@ -16,4 +16,5 @@ charts:
   skin:
     side: conflict
     singleLine: none
+  lastWorkingTiming: 10359
   previewEnd: 5000
