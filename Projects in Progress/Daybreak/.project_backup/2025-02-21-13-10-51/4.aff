@@ -1,0 +1,18 @@
+AudioOffset:0
+-
+timing(0,100.00,4.00);
+timing(4800,100.00,4.00);
+timinggroup(noinput){
+  timing(0,100.00,4.00);
+  hold(750,1050,1);
+  hold(1745,1964,1);
+  hold(2782,3000,1);
+  hold(3764,3982,1);
+};
+timinggroup(noinput){
+  timing(0,100.00,4.00);
+  hold(750,1050,4);
+  hold(1745,1964,4);
+  hold(2782,3000,4);
+  hold(3764,3982,4);
+};

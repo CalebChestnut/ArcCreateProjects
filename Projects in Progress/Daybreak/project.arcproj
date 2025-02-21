@@ -1,0 +1,20 @@
+lastOpenedChartPath: 4.aff
+charts:
+- chartPath: 4.aff
+  audioPath: '[From Lanota] seatrus - The Daybreak Will Never Come Again. - seatrus.ogg'
+  jacketPath: cover.jpg
+  baseBpm: 100
+  bpmText: 100
+  syncBaseBpm: true
+  backgroundPath: bg.jpg
+  title: The Daybreak Will Never Come Again.
+  composer: seatrus
+  charter: TechnicalVessel
+  alias: ''
+  illustrator: ''
+  difficulty: Eternal ?
+  difficultyColor: '#433455FF'
+  skin:
+    side: conflict
+  lastWorkingTiming: 24300
+  previewEnd: 5000
