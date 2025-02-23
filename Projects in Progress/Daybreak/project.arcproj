@@ -11,10 +11,15 @@ charts:
   composer: seatrus
   charter: TechnicalVessel
   alias: ''
-  illustrator: ''
-  difficulty: Eternal ?
+  illustrator: Lanota @ Noxy Games
+  difficulty: Eternal 10+?
   difficultyColor: '#433455FF'
   skin:
     side: conflict
-  lastWorkingTiming: 24300
-  previewEnd: 5000
+  lastWorkingTiming: 90110
+  previewStart: 117599
+  previewEnd: 127199
+editorSettings:
+  lastUsedPublisher: TechVessel
+  lastUsedPackageName: Daybreak
+  lastUsedVersionNumber: 6

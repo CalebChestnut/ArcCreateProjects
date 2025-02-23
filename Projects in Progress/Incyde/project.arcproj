@@ -18,6 +18,7 @@ charts:
     note: ''
     particle: ''
     track: ''
+  lastWorkingTiming: 38547
   previewEnd: 5000
 editorSettings:
   lastUsedPublisher: TechVessel
