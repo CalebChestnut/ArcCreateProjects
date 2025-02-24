@@ -16,10 +16,14 @@ charts:
   difficultyColor: '#433455FF'
   skin:
     side: conflict
-  lastWorkingTiming: 90110
+  lastWorkingTiming: 3400
   previewStart: 117599
   previewEnd: 127199
 editorSettings:
   lastUsedPublisher: TechVessel
   lastUsedPackageName: Daybreak
-  lastUsedVersionNumber: 6
+  lastUsedVersionNumber: 8
+  timestamps:
+    4.aff:
+    - timing: 149398
+      message: Timestamp 0
