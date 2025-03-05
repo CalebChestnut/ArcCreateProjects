@@ -6,7 +6,6 @@ charts:
   baseBpm: 200
   bpmText: 200
   syncBaseBpm: true
-  videoPath: 【BOFET】Avantgarde【BGA】 - あるし (1080p, h264, mute).mp4
   title: Avantgarde
   composer: Raimukun
   charter: TechnicalVessel
@@ -15,8 +14,8 @@ charts:
   difficultyColor: '#482B54FF'
   skin:
     side: conflict
-  lastWorkingTiming: 94263
+  lastWorkingTiming: 78973
   previewEnd: 5000
 editorSettings:
   lastUsedPublisher: TechVessel
-  lastUsedPackageName: Avantgarde
+  lastUsedPackageName: Avantgardenovid
