@@ -12,18 +12,19 @@ charts:
   charter: TechnicalVessel
   alias: ''
   illustrator: Lanota @ Noxy Games
-  difficulty: Eternal 10+?
+  difficulty: Eternal 10+
+  chartConstant: 10.800000000000001
   difficultyColor: '#433455FF'
   skin:
     side: conflict
-  lastWorkingTiming: 3400
+  lastWorkingTiming: 125173
   previewStart: 117599
   previewEnd: 127199
 editorSettings:
   lastUsedPublisher: TechVessel
   lastUsedPackageName: Daybreak
-  lastUsedVersionNumber: 8
+  lastUsedVersionNumber: 10
   timestamps:
     4.aff:
-    - timing: 149398
+    - timing: 115199
       message: Timestamp 0
