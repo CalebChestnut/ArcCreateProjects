@@ -14,7 +14,7 @@ charts:
   difficultyColor: '#482B54FF'
   skin:
     side: conflict
-  lastWorkingTiming: 1265
+  lastWorkingTiming: 3268
   previewEnd: 5000
 editorSettings:
   lastUsedPublisher: TechVessel
