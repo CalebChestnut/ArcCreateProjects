@@ -14,11 +14,11 @@ charts:
   difficultyColor: '#482B54FF'
   skin:
     side: conflict
-  lastWorkingTiming: 34172
+  lastWorkingTiming: 122505
   previewEnd: 5000
 editorSettings:
   lastUsedPublisher: TechVessel
   lastUsedPackageName: Avantgardenovid
-  lastUsedVersionNumber: 1
+  lastUsedVersionNumber: 2
   timestamps:
     2.aff: []
