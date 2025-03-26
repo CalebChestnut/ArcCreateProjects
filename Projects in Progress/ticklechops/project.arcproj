@@ -9,4 +9,5 @@ charts:
   composer: N/A
   difficulty: Future ?
   difficultyColor: '#482B54FF'
-  lastWorkingTiming: 11492
+  lastWorkingTiming: 11142
+  previewEnd: 5000

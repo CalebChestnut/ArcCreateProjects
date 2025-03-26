@@ -6,11 +6,13 @@ charts:
   baseBpm: 160
   bpmText: 160
   syncBaseBpm: true
-  title: Untitled
-  composer: N/A
+  title: Nothing but Theory
+  composer: Lapix
+  charter: Technical Vessel
+  alias: Nothing but Hidden
   difficulty: Future ?
   difficultyColor: '#482B54FF'
   skin:
     side: light
-  lastWorkingTiming: 7040
+  lastWorkingTiming: 13137
   previewEnd: 5000

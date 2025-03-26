@@ -13,8 +13,9 @@ charts:
   alias: CPU Partitioning Complete.
   difficulty: Beyond ?
   difficultyColor: '#7C1C30FF'
+  lastWorkingTiming: 88131
   previewEnd: 5000
 editorSettings:
   lastUsedPublisher: TechVessel
   lastUsedPackageName: Heartfactor
-  lastUsedVersionNumber: 3
+  lastUsedVersionNumber: 4
