@@ -1,0 +1,20 @@
+lastOpenedChartPath: 2.aff
+charts:
+- chartPath: 2.aff
+  audioPath: base.ogg
+  jacketPath: base.jpg
+  baseBpm: 200
+  bpmText: 200
+  syncBaseBpm: true
+  backgroundPath: bg.png
+  title: Heart Factorisation
+  composer: tn-shi
+  charter: TechnicalVessel
+  alias: CPU Partitioning Complete.
+  difficulty: Beyond ?
+  difficultyColor: '#7C1C30FF'
+  previewEnd: 5000
+editorSettings:
+  lastUsedPublisher: TechVessel
+  lastUsedPackageName: Heartfactor
+  lastUsedVersionNumber: 3
