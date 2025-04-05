@@ -14,9 +14,9 @@ charts:
   difficultyColor: '#7C1C30FF'
   skin:
     side: conflict
-  lastWorkingTiming: 154178
+  lastWorkingTiming: 154413
   previewEnd: 5000
 editorSettings:
   lastUsedPublisher: TechVessel
   lastUsedPackageName: TheatoreCreatore
-  lastUsedVersionNumber: 3
+  lastUsedVersionNumber: 4

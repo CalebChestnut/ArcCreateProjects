@@ -7,9 +7,14 @@ charts:
   bpmText: 163
   syncBaseBpm: true
   backgroundPath: bg.png
-  title: Untitled
-  composer: N/A
+  title: Azure Vixen
+  composer: Camellia
+  charter: TechnicalVessel
+  alias: Aquamarine Cobra
   difficulty: Future ?
   difficultyColor: '#482B54FF'
-  lastWorkingTiming: 20668
+  lastWorkingTiming: 33143
   previewEnd: 5000
+editorSettings:
+  lastUsedPublisher: TechVessel
+  lastUsedPackageName: AzureVixen

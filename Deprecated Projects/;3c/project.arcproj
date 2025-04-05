@@ -4,11 +4,19 @@ charts:
   audioPath: youtube_Qh9_lrmamCY_audio.ogg
   jacketPath: images.jpg
   baseBpm: 194.440002
-  bpmText: 100
+  bpmText: What the fuck
   syncBaseBpm: true
-  title: Untitled
-  composer: N/A
+  title: :3c
+  composer: Kyotsugyon
+  charter: TechnicalVessel
+  alias: >-
+    (-_-)zzz
+
+    (0_0)!
+  illustrator: 57_dayo & Lumbud84
   difficulty: Future ?
   difficultyColor: '#482B54FF'
-  lastWorkingTiming: 110216
   previewEnd: 5000
+editorSettings:
+  lastUsedPublisher: TechVessel
+  lastUsedPackageName: 3c
