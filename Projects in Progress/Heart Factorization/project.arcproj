@@ -13,7 +13,7 @@ charts:
   alias: CPU Partitioning Complete.
   difficulty: Beyond ?
   difficultyColor: '#7C1C30FF'
-  lastWorkingTiming: 150023
+  lastWorkingTiming: 150001
   previewEnd: 5000
 editorSettings:
   lastUsedPublisher: TechVessel

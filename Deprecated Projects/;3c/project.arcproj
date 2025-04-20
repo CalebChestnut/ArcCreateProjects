@@ -3,7 +3,7 @@ charts:
 - chartPath: 2.aff
   audioPath: youtube_Qh9_lrmamCY_audio.ogg
   jacketPath: images.jpg
-  baseBpm: 194.440002
+  baseBpm: 291.660004
   bpmText: What the fuck
   syncBaseBpm: true
   title: :3c
@@ -16,6 +16,7 @@ charts:
   illustrator: 57_dayo & Lumbud84
   difficulty: Future ?
   difficultyColor: '#482B54FF'
+  lastWorkingTiming: 121373
   previewEnd: 5000
 editorSettings:
   lastUsedPublisher: TechVessel

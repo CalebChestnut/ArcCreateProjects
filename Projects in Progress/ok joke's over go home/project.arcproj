@@ -1,0 +1,23 @@
+lastOpenedChartPath: 2.aff
+charts:
+- chartPath: 2.aff
+  audioPath: ok joke's over go home - tictacto.ogg
+  jacketPath: hq720.jpg
+  baseBpm: 155
+  bpmText: 155
+  backgroundPath: arccreate_base2_light.jpg
+  title: ok joke's over go home
+  composer: tictacto
+  charter: Technicalvessel
+  alias: oh my god shut the fuck up
+  difficulty: Future ?
+  difficultyColor: '#482B54FF'
+  skin:
+    side: light
+    singleLine: neo
+  previewEnd: 5000
+editorSettings:
+  lastUsedPackageName: gohome
+  lastUsedVersionNumber: 12
+  timestamps:
+    2.aff: []

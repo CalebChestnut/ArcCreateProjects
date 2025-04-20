@@ -13,8 +13,9 @@ charts:
   alias: Aquamarine Cobra
   difficulty: Future ?
   difficultyColor: '#482B54FF'
-  lastWorkingTiming: 33143
-  previewEnd: 5000
+  lastWorkingTiming: 1807
+  previewStart: 1527
+  previewEnd: 6527
 editorSettings:
   lastUsedPublisher: TechVessel
   lastUsedPackageName: AzureVixen
