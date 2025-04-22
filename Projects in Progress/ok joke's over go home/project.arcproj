@@ -15,9 +15,10 @@ charts:
   skin:
     side: light
     singleLine: neo
+  lastWorkingTiming: 210386
   previewEnd: 5000
 editorSettings:
   lastUsedPackageName: gohome
-  lastUsedVersionNumber: 12
+  lastUsedVersionNumber: 13
   timestamps:
     2.aff: []
