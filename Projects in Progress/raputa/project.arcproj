@@ -1,0 +1,40 @@
+lastOpenedChartPath: 2.aff
+charts:
+- chartPath: 2.aff
+  audioPath: raputa.ogg
+  jacketPath: raputa.png
+  baseBpm: 230
+  bpmText: 339
+  syncBaseBpm: true
+  backgroundPath: Raputabg.png
+  title: raputa
+  composer: sasakure.UK x TJ.hangneil
+  charter: TechnicalVessel
+  alias: project raputa complete.
+  difficulty: Beyond 1̷̖̤̳̪̲͔͙̺͛̋͗̂͊̚0̸̧̘͚̜̣̭̩͖̤̻̦͔̉̈́̉̔̄͛͋̍̓͋͘+̸̲̙̳̠̮̺̟͚̳̘̀͐ͅ
+  chartConstant: 10.800000000000001
+  difficultyColor: '#7C1C30FF'
+  skin:
+    side: conflict
+  colors:
+    trace: '#9178AA7A'
+    shadow: '#5A5A5A3C'
+    arc:
+    - '#0CD4D4D9'
+    - '#FF96DCD9'
+    - '#23FF6CD9'
+    - '#FF0001D9'
+    - '#000000D9'
+    arcLow:
+    - '#19A0EBD9'
+    - '#F0699BD9'
+    - '#28C81ED9'
+    - '#FF000CD9'
+    - '#000000D9'
+  lastWorkingTiming: 161392
+  previewEnd: 5000
+editorSettings:
+  lastUsedPackageName: raputa
+  lastUsedVersionNumber: 32
+  timestamps:
+    2.aff: []
