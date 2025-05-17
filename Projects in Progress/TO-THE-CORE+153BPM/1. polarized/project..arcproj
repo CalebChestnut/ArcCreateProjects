@@ -1,0 +1,23 @@
+lastOpenedChartPath: 2.aff
+charts:
+- chartPath: 2.aff
+  audioPath: FEELING... (POLARIZED) ♫.ogg
+  jacketPath: artworks-7fznRxX5kZb59Oy5-vYgzig-t500x500.jpg
+  baseBpm: 153
+  bpmText: 135
+  syncBaseBpm: true
+  title: FEELING... (POLARIZED) ♫
+  composer: xaev
+  charter: TechnicalVessel
+  alias: "FEELING... (INSPIRED) \U0001F4A1"
+  illustrator: PHASEDSUN
+  difficulty: Future ?
+  difficultyColor: '#482B54FF'
+  skin:
+    side: light
+  lastWorkingTiming: 86161
+  previewEnd: 5000
+editorSettings:
+  lastUsedPublisher: TechVessel
+  lastUsedPackageName: polarized
+  lastUsedVersionNumber: 7
